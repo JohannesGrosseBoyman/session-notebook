@@ -1,3 +1,23 @@
+# Web-Challenges Workflow
+		go to the web-challenges (main)    
+mkdir (folder session name e.g. css-basic)    
+		navigate to the folder of step 2 (e.g. cd css-basic)        
+git pull origin (download all the challenges)   
+		navigate back to web-challenges (main)   
+git add .  - add the files   
+git commit -m "Add acomment"  - create a commit   
+git push origin main - push to the main branch    
+		decide on which challenge you want to work   
+git switch -c "challenge folder name"   
+code .    
+		work on the challenge and finish   
+ git add .    
+ git commit -m "add a comment"   
+ git push origin "challenge folder name"   
+ 		do the pull-request on GitHub until merged    
+   git switch main    
+   git pull origin main   
+
 # For every challenge in your folder (web-challenges) use these git commands:
 git add (challenge folder name)  
 git commit -m "message"   
