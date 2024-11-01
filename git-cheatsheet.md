@@ -1,3 +1,9 @@
+# work from the local repository to push to the remote repository
+go to the local repository    
+git add (file-name)     
+git commit -m "a comment"     
+git push origin main
+
 # Web-Challenges Workflow
 		go to the web-challenges (main)    
 mkdir (folder session name e.g. css-basic)    
