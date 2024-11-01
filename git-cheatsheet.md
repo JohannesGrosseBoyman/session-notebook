@@ -17,7 +17,7 @@ or (git add -all)
 git commit -m "addfoo"    
 
 # Cloning a remote repository
-git clone https://github.com/JohannesGrosseBoyman/session-notebook.git (this is the url of the remote repository)
+git clone https://github.com/JohannesGrosseBoyman/session-notebook.git (this is the SSH Link of the remote repository)
 
 # in the local repository: Create a new branch in the VS terminal: (Esraa)
 enter your code in VS    
