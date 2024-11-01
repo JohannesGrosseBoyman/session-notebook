@@ -1,5 +1,5 @@
-# For every challenge in your folder <web-challenges> use these git commands:
-git add <challenge folder name>  
+# For every challenge in your folder (web-challenges) use these git commands:
+git add (challenge folder name)  
 git commit -m "message"   
 git push  
 
@@ -12,7 +12,7 @@ git remote -v
 
 # Committing in a local repository:
 git status   
-git add <filename>    
+git add (filename)    
 or (git add -all)    
 git commit -m "addfoo"    
 
@@ -40,7 +40,7 @@ again on the local repository folder/terminal:
 	git pull origin main   
    
 delete the new branch on GitHub and locally   
-git branch -d <branchname>  - delete a branch   
+git branch -d (branchname)  - delete a branch   
 
    
  
