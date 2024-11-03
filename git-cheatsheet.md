@@ -19,7 +19,7 @@ code .
 		work on the challenge and finish   
  git add .    
  git commit -m "add a comment"   
- git push origin "challenge folder name"   
+ git push origin main (or "challenge folder name")   
  		do the pull-request on GitHub until merged    
    git switch main    
    git pull origin main   
