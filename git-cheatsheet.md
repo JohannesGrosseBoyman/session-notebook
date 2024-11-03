@@ -8,7 +8,7 @@ git push origin main
 		go to the web-challenges (main)    
 mkdir (folder session name e.g. css-basic)    
 		navigate to the folder of step 2 (e.g. cd css-basic)        
-git pull origin (download all the challenges)   
+take the git command from the challenge-handout (download all the challenges)   
 		navigate back to web-challenges (main)   
 git add .  - add the files   
 git commit -m "Add acomment"  - create a commit   
