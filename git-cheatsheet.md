@@ -69,7 +69,7 @@ delete the new branch on GitHub and locally
 git branch -d (branchname)  - delete a branch   
 
 # to link your local Git repository to a new remote repository   
-git remote add origin (SSH-link) 
+git remote add origin (SSH-link)     
 git branch -M main   
 git push -u origin main    
 
