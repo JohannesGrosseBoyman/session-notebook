@@ -19,10 +19,12 @@ code .
 		work on the challenge and finish   
  git add .    
  git commit -m "add a comment"   
- git push origin main (or "challenge folder name")   
+ git push origin "challenge folder name"   
  		do the pull-request on GitHub until merged    
    git switch main    
-   git pull origin main   
+   git pull origin main 
+
+ !!!  for the next challenge: Once Again (git switch -c "challenge folder name")    
 
 # For every challenge in your folder (web-challenges) use these git commands:
 git add (challenge folder name)  
