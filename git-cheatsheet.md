@@ -81,3 +81,12 @@ git push origin main
 
 git push -u origin main (if the remote repo is totally empty)    
 
+
+# To switch back to the main branch without merging or keeping any of the changes you made in the toggle-mode branch
+git checkout toggle-mode    
+git reset --hard   
+git checkout main   
+git branch -d toggle-mode    
+
+
+
