@@ -19,7 +19,7 @@ code .
 		work on the challenge and finish   
  git add .    
  git commit -m "add a comment"   
- git push origin "challenge folder name"   
+ git push origin "challenge branch name"   (these must be done in the branch!!!)
  		do the pull-request on GitHub until merged    
    git switch main    
    git pull origin main 
@@ -73,5 +73,11 @@ git branch -d (branchname)  - delete a branch
 # to link your local Git repository to a new remote repository   
 git remote add origin (SSH-link)     
 git branch -M main   
-git push -u origin main    
+git remote -v    -check th connection with:    
+git pull origin main (if you remote repo has e.g. a README.md)  
+git add .
+git commit -m "Initial commit"    
+git push origin main   
+
+git push -u origin main (if the remote repo is totally empty)    
 
